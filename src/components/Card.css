@@ -11,6 +11,7 @@
 
 .card-container img {
     border-radius: 5px;
+    width: 150px;
 }
 
 .card-container::before {

@@ -37,7 +37,7 @@
             "name": "The Fool", 
             "rank": 0, 
             "suit": "major",
-            "image":"http://dodecahedroid.com/pcio-tarot/rwpop1910/rwfool.jpg"
+            "image":"https://www.sacred-texts.com/tarot/pkt/img/ar00.jpg"
         }, 
         {
             "fortune_telling": [
@@ -70,7 +70,7 @@
             "name": "The Magician", 
             "rank": 1, 
             "suit": "major",
-            "image":"http://dodecahedroid.com/pcio-tarot/rwpop1910/rwmagician.jpg"
+            "image":"https://www.sacred-texts.com/tarot/pkt/img/ar01.jpg"
         }, 
         {
             "fortune_telling": [
@@ -107,7 +107,7 @@
             "alternative_name": "The High Priestess",
             "rank": 2, 
             "suit": "major",
-            "image":"http://dodecahedroid.com/pcio-tarot/rwpop1910/rwhighpriestess.jpg"
+            "image":"https://www.sacred-texts.com/tarot/pkt/img/ar02.jpg"
         }, 
         {
             "fortune_telling": [
@@ -144,7 +144,7 @@
             "name": "The Empress", 
             "rank": 3, 
             "suit": "major",
-            "image":"http://dodecahedroid.com/pcio-tarot/rwpop1910/rwempress.jpg"
+            "image":"https://www.sacred-texts.com/tarot/pkt/img/ar03.jpg"
         }, 
         {
             "fortune_telling": [
@@ -178,7 +178,7 @@
             "name": "The Emperor", 
             "rank": 4, 
             "suit": "major",
-            "image":"http://dodecahedroid.com/pcio-tarot/rwpop1910/rwemperor.jpg"
+            "image":"https://www.sacred-texts.com/tarot/pkt/img/ar04.jpg"
         }, 
         {
             "fortune_telling": [
@@ -215,7 +215,7 @@
             "alternative_name": "The Hierophant", 
             "rank": 5, 
             "suit": "major",
-            "image":"http://dodecahedroid.com/pcio-tarot/rwpop1910/rwhierophant.jpg"
+            "image":"https://www.sacred-texts.com/tarot/pkt/img/ar05.jpg"
         }, 
         {
             "fortune_telling": [
@@ -249,7 +249,7 @@
             "name": "The Lovers", 
             "rank": 6, 
             "suit": "major",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwlovers.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/ar06.jpg"
         }, 
         {
             "fortune_telling": [
@@ -282,7 +282,7 @@
             "name": "The Chariot", 
             "rank": 7, 
             "suit": "major",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwchariot.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/ar07.jpg"
         }, 
         {
             "fortune_telling": [
@@ -314,7 +314,7 @@
             "name": "Strength", 
             "rank": 8, 
             "suit": "major",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwstrength.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/ar08.jpg"
         }, 
         {
             "fortune_telling": [
@@ -347,7 +347,7 @@
             "name": "The Hermit", 
             "rank": 9, 
             "suit": "major",
-            "image":"http://dodecahedroid.com/pcio-tarot/rwpop1910/rwhermit.jpg"
+            "image":"https://www.sacred-texts.com/tarot/pkt/img/ar09.jpg"
         }, 
         {
             "fortune_telling": [
@@ -381,7 +381,7 @@
             "name": "The Wheel", 
             "rank": 10, 
             "suit": "major",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwwheelfortune.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/ar10.jpg"
         }, 
         {
             "fortune_telling": [
@@ -415,7 +415,7 @@
             "name": "Justice", 
             "rank": 11, 
             "suit": "major",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwjustice.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/ar11.jpg"
         }, 
         {
             "fortune_telling": [
@@ -449,7 +449,7 @@
             "name": "The Hanged Man", 
             "rank": 12, 
             "suit": "major",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwhangedman.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/ar12.jpg"
         }, 
         {
             "fortune_telling": [
@@ -483,7 +483,7 @@
             "name": "Death", 
             "rank": 13, 
             "suit": "major",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwdeath.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/ar13.jpg"
         }, 
         {
             "fortune_telling": [
@@ -519,7 +519,7 @@
             "name": "Temperance", 
             "rank": 14, 
             "suit": "major",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwtemperance.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/ar14.jpg"
         }, 
         {
             "fortune_telling": [
@@ -554,7 +554,7 @@
             "name": "The Devil", 
             "rank": 15, 
             "suit": "major",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwdevil.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/ar15.jpg"
         }, 
         {
             "fortune_telling": [
@@ -590,7 +590,7 @@
             "name": "The Tower", 
             "rank": 16, 
             "suit": "major",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwtower.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/ar16.jpg"
         }, 
         {
             "fortune_telling": [
@@ -627,7 +627,7 @@
             "name": "The Star", 
             "rank": 17, 
             "suit": "major",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwstar.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/ar17.jpg"
         }, 
         {
             "fortune_telling": [
@@ -661,7 +661,7 @@
             "name": "The Moon", 
             "rank": 18, 
             "suit": "major",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwmoon.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/ar18.jpg"
         }, 
         {
             "fortune_telling": [
@@ -694,7 +694,7 @@
             "name": "The Sun", 
             "rank": 19, 
             "suit": "major",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwsun.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/ar19.jpg"
         }, 
         {
             "fortune_telling": [
@@ -729,7 +729,7 @@
             "name": "Judgement", 
             "rank": 20, 
             "suit": "major",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwjudgement.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/ar20.jpg"
         }, 
         {
             "fortune_telling": [
@@ -763,7 +763,7 @@
             "name": "The World", 
             "rank": 21, 
             "suit": "major",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwworld.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/ar21.jpg"
         }, 
         {
             "fortune_telling": [
@@ -800,7 +800,7 @@
             "name": "ace of wands", 
             "rank": 1, 
             "suit": "wands",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwacewands.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/waac.jpg"
         }, 
         {
             "fortune_telling": [
@@ -833,7 +833,7 @@
             "name": "two of wands", 
             "rank": 2, 
             "suit": "wands",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw02wands.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/wa02.jpg"
         }, 
         {
             "fortune_telling": [
@@ -866,7 +866,7 @@
             "name": "three of wands", 
             "rank": 3, 
             "suit": "wands",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw03wands.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/wa03.jpg"
         }, 
         {
             "fortune_telling": [
@@ -899,7 +899,7 @@
             "name": "four of wands", 
             "rank": 4, 
             "suit": "wands",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw04wands.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/wa04.jpg"
         }, 
         {
             "fortune_telling": [
@@ -931,7 +931,7 @@
             "name": "five of wands", 
             "rank": 5, 
             "suit": "wands",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw05wands.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/wa05.jpg"
         }, 
         {
             "fortune_telling": [
@@ -967,7 +967,7 @@
             "name": "six of wands", 
             "rank": 6, 
             "suit": "wands",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw06wands.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/wa06.jpg"
         }, 
         {
             "fortune_telling": [
@@ -999,7 +999,7 @@
             "name": "seven of wands", 
             "rank": 7, 
             "suit": "wands",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw07wands.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/wa07.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1034,7 +1034,7 @@
             "name": "eight of wands", 
             "rank": 8, 
             "suit": "wands",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw08wands.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/wa08.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1071,7 +1071,7 @@
             "name": "nine of wands", 
             "rank": 9, 
             "suit": "wands",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw09wands.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/wa09.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1103,7 +1103,7 @@
             "name": "ten of wands", 
             "rank": 10, 
             "suit": "wands",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw10wands.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/wa10.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1135,7 +1135,7 @@
             "name": "page of wands", 
             "rank": "page", 
             "suit": "wands",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwpagewands.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/wapa.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1169,7 +1169,7 @@
             "name": "knight of wands", 
             "rank": "knight", 
             "suit": "wands",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwknightwands.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/wakn.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1199,7 +1199,7 @@
             "name": "queen of wands", 
             "rank": "queen", 
             "suit": "wands",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwqueenwands.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/waqu.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1229,7 +1229,7 @@
             "name": "king of wands", 
             "rank": "king", 
             "suit": "wands",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwkingwands.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/waki.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1264,7 +1264,7 @@
             "name": "ace of cups", 
             "rank": 1, 
             "suit": "cups",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwacecups.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/cuac.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1300,7 +1300,7 @@
             "name": "two of cups", 
             "rank": 2, 
             "suit": "cups",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw02cups.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/cu02.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1331,7 +1331,7 @@
             "name": "three of cups", 
             "rank": 3, 
             "suit": "cups",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw03cups.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/cu03.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1365,7 +1365,7 @@
             "name": "four of cups", 
             "rank": 4, 
             "suit": "cups",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw04cups.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/cu04.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1403,7 +1403,7 @@
             "name": "five of cups", 
             "rank": 5, 
             "suit": "cups",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw05cups.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/cu05.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1437,7 +1437,7 @@
             "name": "six of cups", 
             "rank": 6, 
             "suit": "cups",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw06cups.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/cu06.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1469,7 +1469,7 @@
             "name": "seven of cups", 
             "rank": 7, 
             "suit": "cups",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw07cups.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/cu10.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1507,7 +1507,7 @@
             "name": "eight of cups", 
             "rank": 8, 
             "suit": "cups",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw08cups.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/cu08.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1541,7 +1541,7 @@
             "name": "nine of cups", 
             "rank": 9, 
             "suit": "cups",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw09cups.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/cu09.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1572,7 +1572,7 @@
             "name": "ten of cups", 
             "rank": 10, 
             "suit": "cups",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw10cups.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/cu10.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1606,7 +1606,7 @@
             "name": "page of cups", 
             "rank": "page", 
             "suit": "cups",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwpagecups.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/cupa.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1638,7 +1638,7 @@
             "name": "knight of cups", 
             "rank": "knight", 
             "suit": "cups",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwknightcups.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/cukn.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1670,7 +1670,7 @@
             "name": "queen of cups", 
             "rank": "queen", 
             "suit": "cups",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwqueencups.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/cuqu.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1701,7 +1701,7 @@
             "name": "king of cups", 
             "rank": "king", 
             "suit": "cups",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwkingcups.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/cuki.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1736,7 +1736,7 @@
             "name": "ace of swords", 
             "rank": 1, 
             "suit": "swords",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwaceswords.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/swac.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1769,7 +1769,7 @@
             "name": "two of swords", 
             "rank": 2, 
             "suit": "swords",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw02swords.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/sw02.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1802,7 +1802,7 @@
             "name": "three of swords", 
             "rank": 3, 
             "suit": "swords",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw03swords.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/sw03.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1833,7 +1833,7 @@
             "name": "four of swords", 
             "rank": 4, 
             "suit": "swords",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw04swords.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/sw04.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1869,7 +1869,7 @@
             "name": "five of swords", 
             "rank": 5, 
             "suit": "swords",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw05swords.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/sw06.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1903,7 +1903,7 @@
             "name": "six of swords", 
             "rank": 6, 
             "suit": "swords",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw06swords.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/sw06.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1935,7 +1935,7 @@
             "name": "seven of swords", 
             "rank": 7, 
             "suit": "swords",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw07swords.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/sw07.jpg"
         }, 
         {
             "fortune_telling": [
@@ -1972,7 +1972,7 @@
             "name": "eight of swords", 
             "rank": 8, 
             "suit": "swords",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw08swords.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/sw08.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2007,7 +2007,7 @@
             "name": "nine of swords", 
             "rank": 9, 
             "suit": "swords",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw09swords.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/sw09.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2043,7 +2043,7 @@
             "name": "ten of swords", 
             "rank": 10, 
             "suit": "swords",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw10swords.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/sw10.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2077,7 +2077,7 @@
             "name": "page of swords", 
             "rank": "page", 
             "suit": "swords",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwpageswords.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/swpa.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2116,7 +2116,7 @@
             "name": "knight of swords", 
             "rank": "knight", 
             "suit": "swords",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwknightswords.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/swkn.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2154,7 +2154,7 @@
             "name": "queen of swords", 
             "rank": "queen", 
             "suit": "swords",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwqueenswords.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/swqu.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2188,7 +2188,7 @@
             "name": "king of swords", 
             "rank": "king", 
             "suit": "swords",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwkingswords.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/swki.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2221,7 +2221,7 @@
             "name": "ace of coins", 
             "rank": 1, 
             "suit": "coins",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwacepentacles.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/peac.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2255,7 +2255,7 @@
             "name": "two of coins", 
             "rank": 2, 
             "suit": "coins",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw02pentacles.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/pe02.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2290,7 +2290,7 @@
             "name": "three of coins", 
             "rank": 3, 
             "suit": "coins",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw03pentacles.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/pe03.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2324,7 +2324,7 @@
             "name": "four of coins", 
             "rank": 4, 
             "suit": "coins",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw05pentacles.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/pe04.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2359,7 +2359,7 @@
             "name": "five of coins", 
             "rank": 5, 
             "suit": "coins",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw05pentacles.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/pe05.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2394,7 +2394,7 @@
             "name": "six of coins", 
             "rank": 6, 
             "suit": "coins",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw06pentacles.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/pe06.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2428,7 +2428,7 @@
             "name": "seven of coins", 
             "rank": 7, 
             "suit": "coins",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw07pentacles.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/pe07.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2464,7 +2464,7 @@
             "name": "eight of coins", 
             "rank": 8, 
             "suit": "coins",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw08pentacles.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/pe08.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2496,7 +2496,7 @@
             "name": "nine of coins", 
             "rank": 9, 
             "suit": "coins",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw09pentacles.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/pe09.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2529,7 +2529,7 @@
             "name": "ten of coins", 
             "rank": 10, 
             "suit": "coins",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rw10pentacles.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/pe10.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2563,7 +2563,7 @@
             "name": "page of coins", 
             "rank": "page", 
             "suit": "coins",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwpagepentacles.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/pepa.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2600,7 +2600,7 @@
             "name": "knight of coins", 
             "rank": "knight", 
             "suit": "coins",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwkingpentacles.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/pekn.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2633,7 +2633,7 @@
             "name": "queen of coins", 
             "rank": "queen", 
             "suit": "coins",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwqueenpentacles.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/pequ.jpg"
         }, 
         {
             "fortune_telling": [
@@ -2667,7 +2667,7 @@
             "name": "king of coins", 
             "rank": "king", 
             "suit": "coins",
-            "image": "http://dodecahedroid.com/pcio-tarot/rwpop1910/rwkingpentacles.jpg"
+            "image": "https://www.sacred-texts.com/tarot/pkt/img/peki.jpg"
         }
     ]
 }
