@@ -2,20 +2,20 @@ import { FaBars, FaTimes, FaSearch, FaArrowUp, FaArrowDown } from "react-icons/f
 import { Link } from "react-router-dom";
 import { useRef } from "react";
 import { useState, useEffect } from "react";
-import data from '../assets/data/tarotCards'
-import Card from '../components/Card';
-import Footer from '../components/Footer';
-import '../components/NavBar';
+import data from "../assets/data/tarotCards"
+import Card from "../components/Card";
+import Footer from "../components/Footer";
+import "../components/NavBar";
 
 const Home = () => {
 
     //NavBar Funtionality
     const navRef = useRef();
     const [scrolled, setScrolled] = useState(false);
-    const [inputValue, setInputValue] = useState('');
+    const [inputValue, setInputValue] = useState("");
 
     const showNavBar = () => {
-        navRef.current.classList.toggle('responsive-nav');
+        navRef.current.classList.toggle("responsive-nav");
     }
 
     useEffect(() => { //see if its scroolled or not
@@ -94,7 +94,6 @@ const Home = () => {
                         <span>Sort Alphabetically</span>
                         {sorted.sorted === "name" ? renderArrow() : null}
                     </p>
-                    <p className="nav-link">Type of Card</p>
                     <div className="input-container">
                         <input type="text" 
                         className="text-input" 

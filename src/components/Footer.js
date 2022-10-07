@@ -6,7 +6,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>© 2021 Yaisa Arteaga. All rights reserved.</p>
+      <p>© 2022 Yaisa Arteaga. All rights reserved.</p>
       <div className="social-icon">
         <a href="https://www.linkedin.com/in/yaisa-arteaga/"><img src={navIcon1} alt="Linkedin" /></a>
         <a href="https://github.com/yaisa03"><img src={navIcon2} alt="Github" /></a>
