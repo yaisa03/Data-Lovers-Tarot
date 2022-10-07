@@ -97,7 +97,7 @@ const Home = () => {
                     <div className="input-container">
                         <input type="text" 
                         className="text-input" 
-                        placeholder="Search..." 
+                        placeholder="Search by card name..." 
                         value={inputValue} 
                         onChange={search} />
                         <FaSearch className="search-btn" />
