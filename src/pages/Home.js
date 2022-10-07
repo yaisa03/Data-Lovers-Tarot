@@ -86,14 +86,14 @@ const Home = () => {
                         <FaTimes />
                     </button>
                     <Link to="/about" className="nav-link">About Tarot</Link>
-                    <span className="nav-sort" onClick={sortByRank}>
-                        <p>Sort by Rank</p>
+                    <p className="nav-sort" onClick={sortByRank}>
+                        <span>Sort by Rank</span>
                         {sorted.sorted === "rank" ? renderArrow() : null}
-                    </span>
-                    <span className="nav-sort" onClick={sortByName}>
-                        <p>Sort Alphabelically</p>
+                    </p>
+                    <p className="nav-sort" onClick={sortByName}>
+                        <span>Sort Alphabetically</span>
                         {sorted.sorted === "name" ? renderArrow() : null}
-                    </span>
+                    </p>
                     <p className="nav-link">Type of Card</p>
                     <div className="input-container">
                         <input type="text" 

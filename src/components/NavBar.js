@@ -10,7 +10,6 @@ import "./NavBar.css"
 function NavBar() {
   const navRef = useRef();
   const [scrolled, setScrolled] = useState(false);
-  //const [inputValue, setInputValue] = useState('');
 
   const showNavBar = () => {
     navRef.current.classList.toggle('responsive-nav');
@@ -38,11 +37,6 @@ function NavBar() {
         </button>
         <Link to="/about" className="nav-link">About Tarot</Link>
         <Link to="/" className="nav-link">Home</Link>
-        {/* <Link to="/contact" className="nav-link">Contact</Link>
-        <div className="input-container">
-          <input type="text" className="text-input" value={inputValue} onChange={(e) => setInputValue(e.target.value)} />
-          <FaSearch className="search-btn" />
-        </div> */}
       </nav>
       <button onClick={showNavBar} className="nav-btn">
         <FaBars />
