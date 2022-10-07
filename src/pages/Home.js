@@ -2,20 +2,20 @@ import { FaBars, FaTimes, FaSearch, FaArrowUp, FaArrowDown } from "react-icons/f
 import { Link } from "react-router-dom";
 import { useRef } from "react";
 import { useState, useEffect } from "react";
-import data from '../assets/data/tarotCards'
-import Card from '../components/Card';
-import Footer from '../components/Footer';
-import '../components/NavBar';
+import data from "../assets/data/tarotCards"
+import Card from "../components/Card";
+import Footer from "../components/Footer";
+import "../components/NavBar";
 
 const Home = () => {
 
     //NavBar Funtionality
     const navRef = useRef();
     const [scrolled, setScrolled] = useState(false);
-    const [inputValue, setInputValue] = useState('');
+    const [inputValue, setInputValue] = useState("");
 
     const showNavBar = () => {
-        navRef.current.classList.toggle('responsive-nav');
+        navRef.current.classList.toggle("responsive-nav");
     }
 
     useEffect(() => { //see if its scroolled or not
@@ -86,19 +86,18 @@ const Home = () => {
                         <FaTimes />
                     </button>
                     <Link to="/about" className="nav-link">About Tarot</Link>
-                    <span className="nav-sort" onClick={sortByRank}>
-                        <p>Sort by Rank</p>
+                    <p className="nav-sort" onClick={sortByRank}>
+                        <span>Sort by Rank</span>
                         {sorted.sorted === "rank" ? renderArrow() : null}
-                    </span>
-                    <span className="nav-sort" onClick={sortByName}>
-                        <p>Sort Alphabelically</p>
+                    </p>
+                    <p className="nav-sort" onClick={sortByName}>
+                        <span>Sort Alphabetically</span>
                         {sorted.sorted === "name" ? renderArrow() : null}
-                    </span>
-                    <p className="nav-link">Type of Card</p>
+                    </p>
                     <div className="input-container">
                         <input type="text" 
                         className="text-input" 
-                        placeholder="Search..." 
+                        placeholder="Search by card name..." 
                         value={inputValue} 
                         onChange={search} />
                         <FaSearch className="search-btn" />

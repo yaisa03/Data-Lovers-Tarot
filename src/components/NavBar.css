@@ -59,7 +59,7 @@ nav {
 }
 
 .scrolled {
-    padding: 10px 0;
+    padding: 18px 0;
     background-color: #121212 !important;
     left: 0;
 }
@@ -85,7 +85,7 @@ nav {
     flex-direction: row;
 }
 
-.nav-sort p {
+.nav-sort span {
     margin: 0 0.5rem;
 }
 

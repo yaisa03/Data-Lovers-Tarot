@@ -43,9 +43,32 @@ h1, h2, h3, h4, h5, h6 {
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 2.5rem;
-  padding: 1rem;
+  gap: 2rem;
+  padding: 2rem 10rem;
   text-align: justify;
   min-height: 80vh;
   background: linear-gradient(90.21deg, rgba(170, 54, 124, 0.15) -5.91%, rgba(74, 47, 189, 0.15) 111.58%);
+}
+
+.about-title {
+  color: #fef917;
+
+}
+
+.about-text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding-top: 1rem;
+}
+
+.about-text img{
+  background-color: #fff;
+  margin: 2rem;
+  border-radius: 20px;
+}
+
+.about-text li {
+  padding-top: 5px;
 }
